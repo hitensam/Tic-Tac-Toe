@@ -6,7 +6,7 @@ This is a Tic Tac Toe Android application built using Jetpack Compose 🧩.
 
 # Screenshot 📱
 
-| <img src="https://github.com/hitensam/TicTacToe/assets/30778907/5c3f18f0-324f-46d3-b198-204677d662a2.png" width="350px" style="max-width: 100%;">  | <img src="https://github.com/hitensam/TicTacToe/assets/30778907/0a5114de-ae1b-4e0c-89a0-b63b0da9869b.png" width="350px" style="max-width: 100%;"> |
+| <img src="https://user-images.githubusercontent.com/30778907/269878974-5c3f18f0-324f-46d3-b198-204677d662a2.png" width="350px" style="max-width: 100%;">  | <img src="https://user-images.githubusercontent.com/30778907/269879350-0a5114de-ae1b-4e0c-89a0-b63b0da9869b.png" width="350px" style="max-width: 100%;"> |
 | ------------- | ------------- |
 
 
